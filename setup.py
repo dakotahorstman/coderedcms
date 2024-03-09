@@ -52,7 +52,7 @@ setup(
         "Django>=4.1,<5.1",  # should be the same as wagtail
         "geocoder==1.38.*",
         "icalendar==5.0.*",
-        "wagtail>=5.0,<6.0",
+        "wagtail>=5.0,<7.0",
         "wagtail-cache>=2.3,<3",
         "wagtail-seo>=2.4,<3",
     ],
